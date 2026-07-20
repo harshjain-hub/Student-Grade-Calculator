@@ -1,0 +1,93 @@
+=========================
+Test Case 1
+=========================
+
+Input
+
+Name : Priya
+Marks : 95
+
+Expected Output
+
+Grade : A
+Message : Excellent! Keep shining!
+
+=========================
+Test Case 2
+=========================
+
+Input
+
+Name : Rahul
+Marks : 84
+
+Expected Output
+
+Grade : B
+Message : Very Good! Keep it up!
+
+=========================
+Test Case 3
+=========================
+
+Input
+
+Name : Aman
+Marks : 73
+
+Expected Output
+
+Grade : C
+Message : Good Job! You can do even better!
+
+=========================
+Test Case 4
+=========================
+
+Input
+
+Name : Sneha
+Marks : 65
+
+Expected Output
+
+Grade : D
+Message : Keep Practicing! Success is near!
+
+=========================
+Test Case 5
+=========================
+
+Input
+
+Name : Riya
+Marks : 45
+
+Expected Output
+
+Grade : F
+Message : Don't give up! Keep learning and try again!
+
+=========================
+Test Case 6
+=========================
+
+Input
+
+Marks : 120
+
+Expected Output
+
+Marks must be between 0 and 100.
+
+=========================
+Test Case 7
+=========================
+
+Input
+
+Marks : abc
+
+Expected Output
+
+Please enter a valid number.
